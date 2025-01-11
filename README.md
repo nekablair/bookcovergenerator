@@ -182,7 +182,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 🎉 Enjoy building book covers! 📖
-
----
-
-This README is now ready to guide developers through setting up their own version of the project! Let me know if you'd like to adjust anything or need additional help.
